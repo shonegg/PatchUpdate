@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">增量更新</string>
+    <string name="version_name">当前版本:</string>
+</resources>
